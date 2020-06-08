@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+My Fist Respository
+This is my first repository on this account
